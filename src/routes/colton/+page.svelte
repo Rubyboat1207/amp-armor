@@ -4,7 +4,7 @@
 
 </script>
 
-<h1>Hello, World</h1>
-<h2>Im a real hacker boy now</h2>
-<p>Kill Yourself</p>
-<a href="{base}/rudy"> Go to Rudys' Page</a>
+<h1>Hi, Im Colton. </h1>
+<h2>Im </h2>
+<button on:click="{base}/routes"></button>
+<a href="{base}/routes"> Back to home</a>
