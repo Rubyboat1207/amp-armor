@@ -6,6 +6,7 @@
   import render from "../assets/product_render.png"
   import highway_fire from "../assets/highway_fire.png"
   import house_explode from "../assets/house_explode.webp"
+  import leaf from "../assets/leaf.webp"
 
 
   export const images = [
@@ -21,7 +22,7 @@
     },
     {
       alt: 'Leaf in Ukraine',
-      src: '/images/carousel/johannes-plenio-RwHv7LgeC7s-unsplash.webp',
+      src: leaf,
       title: 'Ukraine Leaf'
     }
   ];
@@ -43,12 +44,14 @@
   </div>
 </Section>
 
-<div class="flex pb-10">
-  <div class="w-1/2">
-    <h1 class="font-black text-5xl">The present danger of EVs</h1>
-    <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400 p-4">Whether on the road, plugged in or simply unattended EVs can pose a serious danger to those around them.</p>
-  </div>
-  <div class="w-1/2">
-  <Carousel {images} duration="5000"/>
+<div class="flex justify-center">
+  <div class="flex pb-10 max-w-screen-xl lg:w-11/12 flex-col lg:flex-row">
+    <div class="w-full lg:w-1/2 lg:ml-5">
+      <h1 class="font-black text-5xl lg:text-left text-center mt-5 lg:mt-0">The present danger of EVs</h1>
+      <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400 p-4 lg:text-left text-center">Whether on the road, plugged in or simply unattended EVs can pose a serious danger to those around them.</p>
+    </div>
+    <div class="lg:w-1/2">
+    <Carousel {images} duration="5000"/>
+    </div>
   </div>
 </div>
