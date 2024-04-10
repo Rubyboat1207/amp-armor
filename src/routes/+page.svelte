@@ -1,8 +1,29 @@
 <script>
   import { Section, News, HeroHeader, HeroBody } from 'flowbite-svelte-blocks';
+  import { Carousel } from 'flowbite-svelte';
   import { Button } from 'flowbite-svelte';
   import { ArrowRightOutline } from 'flowbite-svelte-icons';
   import render from "../assets/product_render.png"
+  import highway_fire from "../assets/highway_fire.png"
+
+
+  export const images = [
+    {
+      alt: 'Highway fire',
+      src: highway_fire,
+      title: 'Highway Fire'
+    },
+    {
+      alt: 'Cristina Gottardi',
+      src: '/images/carousel/cristina-gottardi-CSpjU6hYo_0-unsplash.webp',
+      title: 'cristina-gottardi-CSpjU6hYo_0-unsplash.com'
+    },
+    {
+      alt: 'Johannes Plenio',
+      src: '/images/carousel/johannes-plenio-RwHv7LgeC7s-unsplash.webp',
+      title: 'johannes-plenio-RwHv7LgeC7s-unsplash.com'
+    }
+  ];
 </script>
 
 <Section name="heroVisual">
@@ -20,3 +41,7 @@
     </div>
   </div>
 </Section>
+
+<div>
+  <Carousel {images} duration="5000"/>
+</div>
