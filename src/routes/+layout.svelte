@@ -3,7 +3,7 @@
 
     import "../app.css";
 </script>
-<Navbar class="bg-primary-300 border-b-2 border-primary-50 sticky top-0 z-50" >
+<Navbar class=" border-b-2 border-primary-50 sticky top-0 z-50" >
     <NavBrand href="/">
       <img src="/images/flowbite-svelte-icon-logo.svg" class="me-3 h-6 sm:h-9" alt="Flowbite Logo" />
       <span class="self-center  whitespace-nowrap text-xl font-semibold text-primary-500 dark:text-white">Amp-Armor</span>
