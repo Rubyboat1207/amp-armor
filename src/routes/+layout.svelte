@@ -11,7 +11,7 @@
     </NavBrand>
     <NavHamburger  />
     <NavUl >
-      <NavLi class="text-primary-400" href="{base}">Home</NavLi>
+      <NavLi class="text-primary-400" href="{base}/teampages">Meet The Team</NavLi>
       <NavLi class="text-primary-400" href="{base}/about">About</NavLi>
       <NavLi class="text-primary-400" href="{base}/pricing">Pricing</NavLi>
       <NavLi class="text-primary-400" href="{base}/contact">Contact</NavLi>
