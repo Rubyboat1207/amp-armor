@@ -16,7 +16,9 @@ export default {
           700: '#EB4F27',
           800: '#CC4522',
           900: '#A5371B'
-        }
+        },
+        'electric-cyan': {50: '#00ffff', 100: '#49acfc'},
+        'bond-blue': '#006bff'
       }
     },
   },
