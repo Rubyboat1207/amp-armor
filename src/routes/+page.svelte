@@ -29,7 +29,7 @@
 </script>
 
 <Section name="heroVisual">
-  <div class="flex">
+  <div class="flex mt-10">
     <div class="mr-auto place-self-center lg:col-span-7">
       <HeroHeader h1Class="max-w-2xl mb-4 text-4xl text-primary-500 font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white" pClass="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
         <svelte:fragment slot="h1">Keeping you and your car safe</svelte:fragment>
