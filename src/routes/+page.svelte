@@ -36,6 +36,7 @@
         <svelte:fragment slot="h1">Keeping You and Your Car Safe</svelte:fragment>
         <svelte:fragment slot="paragraph">Electric, hybrids, and other plug-in vehicles are on the rise in almost every state and country as our modern world begins the transition away from fossil fuels and towards green energy. With the ever increasing popularity of Electric Vehicles, the more risk there is for these vehicles to harm people, and property. <strong>Safety is our number one concern</strong>. Our EV Car Battery extiguisher/early warning system/whatevr we want it to be helps you when you may need it the most.</svelte:fragment>
         <NavButton page='oursolution' text='Learn More'/>
+        <NavButton page='proceedure' text='Product Proceedure'/>
       </HeroHeader>
     </div>
     <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
