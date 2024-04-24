@@ -19,6 +19,9 @@ export default {
         },
         'electric-cyan': {50: '#00ffff', 100: '#49acfc'},
         'bond-blue': '#006bff'
+      },
+      fontFamily: {
+        'sans': ["Roboto Condensed", 'sans-serif']
       }
     },
   },

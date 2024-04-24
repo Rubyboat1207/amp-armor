@@ -52,7 +52,7 @@
       <NavButton page='precedence' text='Historical Precedence'/>
     </div>
     <div class="lg:w-1/2">
-    <Carousel class="border-2 text-electric_cyan" style="box-shadow: 0px 0px 015px #00ffff;" {images} duration="5000"/>
+      <Carousel class="border-2 text-electric_cyan" style="box-shadow: 0px 0px 015px #00ffff;" {images} duration="5000"/>
     </div>
   </div>
 </div>
