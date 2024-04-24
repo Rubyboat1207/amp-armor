@@ -1,0 +1,1 @@
+const e=""+new URL("../assets/highway_fire.yIq22KVm.png",import.meta.url).href,s=""+new URL("../assets/house_explode.Kf7Ec6nl.webp",import.meta.url).href,a=""+new URL("../assets/leaf.30B8f8oe.webp",import.meta.url).href;export{e as a,s as h,a as l};
