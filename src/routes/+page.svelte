@@ -60,3 +60,18 @@
     </div>
   </div>
 </div>
+
+<div class="mt-20"></div>
+
+<div class="flex justify-center">
+  <div class="flex pb-10 max-w-screen-xl lg:w-11/12 flex-col lg:flex-row">
+    <div class="w-full lg:w-1/2 lg:mr-5">
+      <h1 class="font-black text-5xl text-primary-500 lg:text-left text-center mt-5 lg:mt-0">AMP-Armor TED talk presentation</h1>
+      <p class="max-w-2xl mb-6 font-light text-primary-400 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400 p-4 lg:text-left text-center">Learn how our innovative EV battery fire prevention product is setting new safety standards in our TED Talk, explore how we're making electric vehicles safer for everyone.</p>
+      <NavButton page='precedence' text='Watch our Presentation'/>
+    </div>
+    <div class="lg:w-1/2 lg:mr-5 lg:block h-64 flex justify-center">
+      <iframe class="w-full h-full" title="presentation" src="https://docs.google.com/presentation/d/e/2PACX-1vQlnlqH_N4uPmb6vSzeDH_K008Eo1HCMMCe2nAfjhFVLOEgys_jIIWMLKZYH4CxwT-qbYtvko9vFd6b/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+  </div>
+</div>
