@@ -2,7 +2,7 @@
   import Paragraph from "../../components/Paragraph.svelte";
 </script>
 
-<div class="text-5xl text-white text-center mt-20 font-bold mb-10">Product Proceedure</div>
+<div class="text-5xl text-white text-center mt-20 font-bold mb-10">Product Procedure</div>
 <Paragraph>
   <span
     slot="title"
@@ -82,19 +82,21 @@
     class="size-5 text-lg lg:text-sm flex justify-center items-center w-fit uppercase font-bold text-yellow-400"
     >Safety considerations</span
   >
-  <ul slot="p" class="text-white lg:text-lg">
-    <li>
-      Is it safe? Is it effective? Will it work in a variety of situations?<br
-      />
-    </li>
-    <ul>
+  <div slot="p">
+    <ul class="text-white lg:text-lg">
       <li>
-        Is the extinguishing agent safe to life and the environment and/or
-        causes minimal disturbance?<br />
+        Is it safe? Is it effective? Will it work in a variety of situations?<br
+        />
       </li>
-      <li>Does it actually extinguish the fires at the source?<br /></li>
+      <ul>
+        <li>
+          Is the extinguishing agent safe to life and the environment and/or
+          causes minimal disturbance?<br />
+        </li>
+        <li>Does it actually extinguish the fires at the source?<br /></li>
+      </ul>
     </ul>
-  </ul>
+  </div>
 </Paragraph>
 <Paragraph>
   <span
