@@ -88,8 +88,11 @@
             class="w-full lg:w-3/12"
           />
         </div>
-        Fires need 3 main things: Fuel, heat, and oxygen. By removing any of these,
-        the triangle breaks. Our device aims to break the triangle by removing oxygen.
+        If a runaway reaction has already begun, we don’t expect the extinguisher
+        to be enough to fully stop the runaway reaction. However, by cooling the
+        battery and cutting off oxygen, it significantly reduces the reaction rate
+        and increases the time it takes for the battery to ignite, buying valuable
+        time for the driver.
       </div>
     </Paragraph>
   </div>
