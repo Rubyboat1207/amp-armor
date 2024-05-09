@@ -10,7 +10,7 @@
         </div>
     </div>
     <div class="lg:w-full">
-        <div class="ml-5">
+        <div class="ml-20">
             <slot name="p"/>
         </div>
     </div>
