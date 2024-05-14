@@ -52,26 +52,21 @@
           />
           <div class="mb-10">
             <p>
-              Bishal was in his early thirties and he has two daughters. On this
-              faitful day he was driving his Tesla Model Y off the highway. He
-              was only going about 20 miles per hour when he noticed his car
-              shaking. Thinking it was a flat tire he then pulled to the side of
-              the highway. After pulling over to inspect what was wrong, he
-              noticed a thick white smoke coming from the underside of his
-              vehicle. At that very moment, his car burst into a violent
-              inferno. He immediately called 911, but by the time first
-              responders arrived at the scene, the car was completely engulfed
-              in flames. In an interview following the incident, he remarked
-              that when backing away from the vehicle, he saw the car seats of
-              his daughter, he could only think about what would happen to them
-              if they were in the car at the time.
+              In the quiet neighborhood of Île-Bizard, Montreal, a Friday afternoon
+              was shattered by a sudden explosion as Piero Cosentino's newly acquired Hyundai 
+              Kona electric car erupted into flames. The violent blast tore the garage door 
+              from its hinges, propelling it across the street into his neigbors yard. Amidst the
+              smoke and chaos, firefighters struggled contained the fire. Investigators pinpoint 
+              the battery as the instigator of the fire. The car was parked, off, and not charging, 
+              yet the brand new car still turned his garage into a smokey mess.
+
             </p>
             <p class="mt-3 text-primary-400 text-sm">
               "Electric car catches fire and explodes in Île-Bizard garage" Jul
               27, 2019 6:09 AM CDT <a
                 class="text-electric-cyan-50 underline"
-                href="https://www.cbsnews.com/sacramento/news/caught-on-camera-tesla-catches-fire-on-highway-99/"
-                >https://www.cbsnews.com/sacramento/news/caught-on-camera-tesla-catches-fire-on-highway-99/</a
+                href="https://www.cbc.ca/news/canada/montreal/electric-car-catches-fire-and-explodes-in-%C3%AEle-bizard-garage-1.5227665" target="_blank"
+                >https://www.cbc.ca/news/canada/montreal/electric-car-catches-fire-and-explodes-in-%C3%AEle-bizard-garage-1.5227665</a
               >
             </p>
           </div>
@@ -106,7 +101,7 @@
               Юлія, Дюдюн "In Khmelnitsky during charging burned electric car
               (video of the moment)" 08 July 2021 <a
                 class="text-electric-cyan-50 underline"
-                href="https://www.autocentre.ua/news/v-hmelnitskom-vo-vremya-zaryadki-sgorel-elektromobil-video-momenta-1356053.html"
+                href="https://www.autocentre.ua/news/v-hmelnitskom-vo-vremya-zaryadki-sgorel-elektromobil-video-momenta-1356053.html" target="_blank"
                 >https://www.autocentre.ua/news/v-hmelnitskom-vo-vremya-zaryadki-sgorel-elektromobil-video-momenta-1356053.html</a
               >
             </p>
@@ -149,7 +144,7 @@
               "Caught on camera: Tesla catches fire on Highway 99" May 9, 2023 /
               11:31 AM PDT <a
                 class="text-electric-cyan-50 underline"
-                href="https://www.cbsnews.com/sacramento/news/caught-on-camera-tesla-catches-fire-on-highway-99/"
+                href="https://www.cbsnews.com/sacramento/news/caught-on-camera-tesla-catches-fire-on-highway-99/" target="_blank"
                 >https://www.cbsnews.com/sacramento/news/caught-on-camera-tesla-catches-fire-on-highway-99/</a
               >
             </p>
