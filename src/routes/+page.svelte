@@ -9,6 +9,7 @@
   import leaf from "../assets/leaf.webp";
   import { base } from "$app/paths";
   import NavButton from "../components/NavButton.svelte";
+    import NavButtonExternal from "../components/NavButtonExternal.svelte";
 
   export const images = [
     {
@@ -116,7 +117,7 @@
         new safety standards in our TED Talk, explore how we're making electric
         vehicles safer for everyone.
       </p>
-      <NavButton page="precedence" text="Watch our Presentation" />
+      <NavButtonExternal page="https://drive.google.com/file/d/1ZEzNE6Z-sSTEuaaag9jwUSRLKqh0uiI-/view?usp=sharing" text="Watch our Presentation" />
     </div>
     <div class="lg:w-1/2 lg:mr-5 lg:block h-64 flex justify-center">
       <iframe
