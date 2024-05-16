@@ -51,7 +51,7 @@
           most.</svelte:fragment
         >
         <NavButton page="oursolution" text="Learn More" />
-        <NavButton page="proceedure" text="Product Proceedure" />
+        <NavButton page="procedure" text="Product Proceedure" />
       </HeroHeader>
     </div>
     <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
